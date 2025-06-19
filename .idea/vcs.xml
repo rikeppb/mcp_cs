@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mcp_cs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tame-your-ollama4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mcp-ai-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mcp-server" vcs="Git" />
   </component>
 </project>

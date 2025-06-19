@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="mcp-ai-client" value="tame-your-ollama4j" />
+        <entry key="mcp-server" value="mcp-application" />
+        <entry key="weather-example" value="weather" />
+      </map>
+    </option>
+  </component>
+</project>
