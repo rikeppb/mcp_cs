@@ -6,20 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="weather" />
         <module name="tame-your-ollama4j" />
+        <module name="weather-example" />
         <module name="mcp-server" />
         <module name="mcp-ai-client" />
         <module name="mcp-application" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="weather-example" target="21" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="weather" options="-parameters" />
       <module name="weather-example" options="-parameters" />
     </option>
   </component>

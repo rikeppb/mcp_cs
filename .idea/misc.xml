@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/weather/pom.xml" />
         <option value="$PROJECT_DIR$/mcp-server/pom.xml" />
         <option value="$PROJECT_DIR$/mcp-ai-client/pom.xml" />
+        <option value="$PROJECT_DIR$/weather-example/pom.xml" />
       </list>
     </option>
   </component>
