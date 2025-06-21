@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mcp-ai-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcp-ai-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcp-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mcp-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mcp_cs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mcp_cs/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tame-your-ollama4j/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tame-your-ollama4j/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/weather/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/weather/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-example/src/main/resources" charset="UTF-8" />
   </component>
 </project>

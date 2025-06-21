@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/mcp_cs/pom.xml" />
         <option value="$PROJECT_DIR$/tame-your-ollama4j/pom.xml" />
         <option value="$PROJECT_DIR$/weather/pom.xml" />
+        <option value="$PROJECT_DIR$/mcp-server/pom.xml" />
+        <option value="$PROJECT_DIR$/mcp-ai-client/pom.xml" />
       </list>
     </option>
   </component>
